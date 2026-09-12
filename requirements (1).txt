@@ -1,0 +1,5 @@
+Flask>=3.0,<4
+gunicorn>=22,<24
+langchain-core>=0.3
+langchain-google-genai>=2.1
+langgraph>=0.2
